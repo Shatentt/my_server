@@ -12,10 +12,10 @@ Web-сайт и телеграмм-бот для студентов. На сай
 ![2023-04-16_23h48_01](https://user-images.githubusercontent.com/107076527/232341385-596c3071-ca64-40fe-ad76-869eb86a77c6.png)
 ![2023-04-16_23h48_05](https://user-images.githubusercontent.com/107076527/232341389-0a62825d-cc19-4b7f-a3b4-7cd1700161be.png)
 * На странице /formulas можно посмотреть темы для формул по физике и математике, посмотреть избранные для пользователя формулы. Отсюда можно перейти по каждой теме в /formulas/<theme-name>
-![2023-04-16_23h46_11](https://user-images.githubusercontent.com/107076527/232341410-4ec3f19a-3d3a-466e-bd0f-af91f4828586.png)
-![2023-04-16_23h46_21](https://user-images.githubusercontent.com/107076527/232341445-d80cdada-1849-4257-8f59-b5ffe50c4c7f.png)
+![2023-04-16_23h56_15](https://user-images.githubusercontent.com/107076527/232341762-3cceac24-1d9b-4c6b-96c9-4182da8b7c16.png)
+![2023-04-16_23h56_18](https://user-images.githubusercontent.com/107076527/232341765-d27ae216-0660-4fd6-bf5f-1167194f015c.png)
 * На странице /formulas/<theme-name> можно посмотреть формулы по теме, которую выбрал пользователь, добавить данную тему в избранное
-![2023-04-16_23h52_00](https://user-images.githubusercontent.com/107076527/232341530-a37b5d4f-c970-48b9-8949-9ffac6d659ae.png)
+![2023-04-16_23h57_04](https://user-images.githubusercontent.com/107076527/232341793-5f27ec46-dafd-4ee1-9d59-9217b943af7f.png)
 * На странице /calc можно воспользоваться калькулятором  
 ![2023-04-16_23h53_29](https://user-images.githubusercontent.com/107076527/232341606-bf8bedd6-60a6-4470-8695-515cdf96be5b.png)
 * На странице /graph-calc можно воспользоваться графическим калькулятором  
